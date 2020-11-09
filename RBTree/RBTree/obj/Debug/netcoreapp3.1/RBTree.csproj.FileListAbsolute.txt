@@ -1,0 +1,13 @@
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.exe
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.deps.json
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.runtimeconfig.dev.json
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.dll
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.pdb
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.csprojAssemblyReference.cache
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.dll
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.pdb
+C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.genruntimeconfig.cache
