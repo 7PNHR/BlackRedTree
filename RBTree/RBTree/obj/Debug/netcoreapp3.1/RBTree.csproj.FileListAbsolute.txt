@@ -11,3 +11,16 @@ C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTre
 C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.dll
 C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.pdb
 C:\Users\Administrator\RiderProjects\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.genruntimeconfig.cache
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.exe
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.deps.json
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.runtimeconfig.json
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.runtimeconfig.dev.json
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.dll
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\bin\Debug\netcoreapp3.1\RBTree.pdb
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.csprojAssemblyReference.cache
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.AssemblyInfoInputs.cache
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.AssemblyInfo.cs
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.csproj.CoreCompileInputs.cache
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.dll
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.pdb
+C:\Users\LPNHR\Desktop\Типо рабочий стол\Code\BlackRedTree-main\RBTree\RBTree\obj\Debug\netcoreapp3.1\RBTree.genruntimeconfig.cache
