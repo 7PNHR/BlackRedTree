@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Administrator\\RiderProjects\\RBTree\\RBTree\\RBTree.csproj",
+    "projectUniqueName": "C:\\Users\\LPNHR\\Desktop\\Типо рабочий стол\\Code\\BlackRedTree-main\\RBTree\\RBTree\\RBTree.csproj",
     "projectName": "RBTree",
-    "projectPath": "C:\\Users\\Administrator\\RiderProjects\\RBTree\\RBTree\\RBTree.csproj",
-    "outputPath": "C:\\Users\\Administrator\\RiderProjects\\RBTree\\RBTree\\obj\\",
+    "projectPath": "C:\\Users\\LPNHR\\Desktop\\Типо рабочий стол\\Code\\BlackRedTree-main\\RBTree\\RBTree\\RBTree.csproj",
+    "outputPath": "C:\\Users\\LPNHR\\Desktop\\Типо рабочий стол\\Code\\BlackRedTree-main\\RBTree\\RBTree\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -41,7 +44,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
     }
   }
 }

@@ -155,17 +155,19 @@ namespace RBTree
 
         public void Delete(T key)
         {
+            if(_root==null) return;
             var node = Find(key);
-            if (node == _root && node.Left.IsFict && node.Right.IsFict) _root = null;
             if(node==null) return;
-            if(node.Color==Color.Red)
+            if(node == _root && node.Left.IsFict && node.Right.IsFict) _root = null;
+            else if(node.Color==Color.Red)
                 DeleteRedNode(node);
             else DeleteBlackdNode(node);
         }
         
         private void Delete(RedBlackNode<T> node)
         {
-            if(node.Color==Color.Red)
+            if (node == _root && node.Left.IsFict && node.Right.IsFict) _root = null;
+            else if(node.Color==Color.Red)
                 DeleteRedNode(node);
             else DeleteBlackdNode(node);
         }
@@ -237,7 +239,8 @@ namespace RBTree
 
         private void Balance(RedBlackNode<T> deletedNode) //теперь она нил
         {
-            if (deletedNode.Parent.Color == Color.Red)
+            if (deletedNode.Parent.Parent == null) deletedNode.Brother.Color=Color.Red;
+            else if (deletedNode.Parent.Color == Color.Red)
                 RedBlackBalance(deletedNode);
             else if (deletedNode.Parent.Color == Color.Black && deletedNode.Brother.Color == Color.Red)
                 BlackRedBalance(deletedNode);
